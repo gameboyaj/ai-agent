@@ -3,8 +3,6 @@
 calculator
 
 __pycache__
-./calculator/__pycache__
-./calculator/pkg/__pycache__
 
 pyproject.toml
 uv.lock

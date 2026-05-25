@@ -1,5 +1,6 @@
 .venv
 .env
+calculator
 
 __pycache__
 ./calculator/__pycache__
